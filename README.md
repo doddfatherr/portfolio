@@ -13,4 +13,10 @@ Relevant Coursework: CS 587 - Advanced Deep Learning | CPE 428 - Computer Vision
 - Applied machine learning techniques of principal component analysis (PCA), data augmentation, and novel neural network architecture
 - Worked with thesis advisor to publish IEEE conference paper, IEEE journal paper, and thesis within 1.5 year timeframe
 
+## Projects
+### Novel Deep Learning Architecture to Monitor Upper Extremity Behavior
+
+Using Tensorflow/Keras libraries, developed novel BiDirectional Long-Short-Term (BiLSTM) Recurrent Neural Network (RNN) to analyze Electromyography(EMG) and classify human activity.  
+
+
 
