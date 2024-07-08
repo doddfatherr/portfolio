@@ -24,7 +24,7 @@ Compared model to other state-of-the-art models in EMG analysis, including convo
 ### Predicting Grip Aperture using Forearm Muscle Activation Data
 [Publication currently in Press](https://github.com/doddfatherr/Thesis-2024/blob/main/IEEE_EMBC_Paper.pdf)
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+![Computer_Vision_Snapshot](/assets/CVSnapshot.png)
 
 
 
