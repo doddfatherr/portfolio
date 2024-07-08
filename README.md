@@ -1,10 +1,15 @@
 # Deep Learning Graduate Researcher
 
-### Education
-California Polytechnic State University, San Luis Obispo
-Mechanical Engineering Master of Science, MS 2024
-Mechanical Engineering Bachelor of Science, BS 2023
+#### Technical Skills: Python (Tensorflow/Keras, Pytorch, Numpy, Pandas), MATLAB, RStudio 
 
-### Work Experience
-Teaching Associate 
-- Facilitated 3 undergraduate labs
+## Education
+- M.S, Mechanical Engineering | California Polytechnic State University, San Luis Obispo _June 2024_
+- B.S, Mechanical Engineering | California Polytechnic State University, San Luis Obispo _June 2023_
+
+## Work Experience
+**Graduate Research Assistant, UIH Grant | _December 2022 - Present_** (https://ericwadelab.github.io/)
+- Developed algorithms to analyze electromyography (EMG) and acceleration data from wearable armband, with the end application to individuals post-stroke
+- Applied machine learning techniques of principal component analysis (PCA), data augmentation, and novel neural network architecture
+- Worked with thesis advisor to publish IEEE conference paper, IEEE journal paper, and thesis within 1.5 year timeframe
+-  https://ericwadelab.github.io/
+
