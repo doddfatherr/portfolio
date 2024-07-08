@@ -15,8 +15,17 @@ Relevant Coursework: CS 587 - Advanced Deep Learning | CPE 428 - Computer Vision
 
 ## Projects
 ### Novel Deep Learning Architecture to Monitor Upper Extremity Behavior
+[Publication in Progress, see contribution 2 of thesis](https://github.com/doddfatherr/Thesis-2024/blob/main/Thesis_ND2024.pdf)
 
-Using Tensorflow/Keras libraries, developed novel BiDirectional Long-Short-Term (BiLSTM) Recurrent Neural Network (RNN) to analyze Electromyography(EMG) and classify human activity.  
+Using Tensorflow/Keras libraries, developed novel BiDirectional Long-Short-Term (BiLSTM) Recurrent Neural Network (RNN) to analyze Electromyography(EMG) and classify human activity. Developed an in-home research procedure to collect data, segmentation and classification algorithm in **Python**, data processing pipeline using **MATLAB**, and model in _Google Colab_. Empirically determined optimal model hyperparameters to achieve a model F1-score of _84%_, comprable to many published works.
+Compared model to other state-of-the-art models in EMG analysis, including convolutional neural-network (CNN)-LSTM, Transformer-LSTM hybrid models. 
+
+
+### Predicting Grip Aperture using Forearm Muscle Activation Data
+[Publication currently in Press](https://github.com/doddfatherr/Thesis-2024/blob/main/IEEE_EMBC_Paper.pdf)
+
+![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+
 
 
 
