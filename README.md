@@ -25,6 +25,8 @@ Compared model to other state-of-the-art models in EMG analysis, including convo
 [Publication currently in press](https://github.com/doddfatherr/Thesis-2024/blob/main/IEEE_EMBC_Paper.pdf)
 
 [Conference Poster]([https://github.com/doddfatherr/Thesis-2024/blob/main/IEEE_EMBC_Paper.pdf](https://github.com/doddfatherr/Thesis-2024/blob/main/EMBC%20Poster_v1.pdf)) 
+
+
 Designed and carried out data collection procedure on 10 participants to determine relationship between grip aperture (distance between thumb and forefinger) and forearm EMG. Developed novel computer vision algorithm to accurately capture aperture using _OpenCV_ grayscale, gaussian blur, and binary/adaptive thresholding techniques to track finger location. Performed descriptive statistics analysis in Rstudio. Work presented and published at IEEE Engineering in Medice Biology Society (EMBS) 46th annual conference
 ![Conference_Poster](assets/poster_image.png)
 ![Computer_Vision_Snapshot](/assets/CVSnapshot.png)
