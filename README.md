@@ -39,8 +39,21 @@ Instructed 3 different mechanical engineering undergraduate 3 hour lab sections,
 ### Journey of Hope Cyclist | The Ability Experience _June 2021 - August 2021_
 Volunteered in fraternity national philantropy event where I cycled 3,663 miles from Santa Barbara, CA to Washington D.C to raise money and awareness for people with disabilites. Participated in "friendship visits" with 21 disability resource organizations across the country over 59 days. Personally fundraised $7000+ over 5 months leading up to trip departure. I was named local fraternity chapter brother of the year and an event team captain for training the most miles out of 20 cyclists.
 
+![Joh Bike](assets/Joh_bike.JPG)
+![Joh Friendship Visit](assets/Joh_friendship_visit.JPG)
+
+<div style="text-align: center;">
+  <img src="assets/Joh_bike.JPG" alt="Joh Bike" style="width:50%;">
+  <img src="assets/Joh_friendship_visit.JPG" alt="Joh Friendship Visit" style="width:50%;">
+</div>
+
 ### Surfboard Shaping Instructor | California Polytechnic State University, San Luis Obispo _September 2021 - June 2024_
 Facilitated a 6-week project-based course to handshape a surfboard from a polyurethane foam "blank." Instructed multiple classes of 6 students per quarter, ensuring each student's final product matches their specifications. Designed original surfboards from concept to schematic, prototype to final product with each student.
 
 ![Shaping Instruction 1](assets/CR_Surfboard-Shaping-Class_WI24-17.jpg)
 ![Shaping Instruction 2](assets/CR_Surfboard-Shaping-Class_WI24-3.jpg)
+
+<div style="text-align: center;">
+  <img src="assets/CR_Surfboard-Shaping-Class_WI24-17.jpg" alt="Shaping Instruction 1" style="width:50%;">
+  <img src="assets/CR_Surfboard-Shaping-Class_WI24-3.jpg" alt="Shaping Instruction 2" style="width:50%;">
+</div>
