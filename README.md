@@ -31,6 +31,14 @@ Designed and carried out data collection procedure on 10 participants to determi
 ![Conference_Poster](assets/poster_image.png)
 ![Computer_Vision_Snapshot](/assets/CVSnapshot.png)
 
+## Leadership and Activities
+### Teaching Associate | California Polytechnic State University, San Luis Obispo _September 2023 - June 2024_
+- ME 251: Intro to Detailed Design, ME 129/130: Introduction to Mechanical Engineering 
+Instructed 3 different mechanical engineering undergraduate 3 hour lab sections, each of 28+ students and 2 grading assistants. Taught SolidWorks principles to freshmen/sophomore throughout 10 week course, conveying topics such as engineering detailed drawings, hand drafting techniques, and GD&T fundamentals.  
 
+### Journey of Hope Cyclist | The Ability Experience _June 2021 - August 2021_
+Volunteered in fraternity national philantropy event where I cycled 3,663 miles from Santa Barbara, CA to Washington D.C to raise money and awareness for people with disabilites. Participated in "friendship visits" with 21 disability resource organizations across the country over 59 days. Personally fundraised $7000+ over 5 months leading up to trip departure. I was named local fraternity chapter brother of the year and an event team captain for training the most miles out of 20 cyclists.
 
+### Surfboard Shaping Instructor | California Polytechnic State University, San Luis Obispo _September 2021 - June 2024_
+Facilitated a 6-week project-based course to handshape a surfboard from a polyurethane foam "blank." Instructed multiple classes of 6 students per quarter, ensuring each student's final product matches their specifications. Designed original surfboards from concept to schematic, prototype to final product with each student.
 
