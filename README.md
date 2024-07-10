@@ -42,3 +42,5 @@ Volunteered in fraternity national philantropy event where I cycled 3,663 miles 
 ### Surfboard Shaping Instructor | California Polytechnic State University, San Luis Obispo _September 2021 - June 2024_
 Facilitated a 6-week project-based course to handshape a surfboard from a polyurethane foam "blank." Instructed multiple classes of 6 students per quarter, ensuring each student's final product matches their specifications. Designed original surfboards from concept to schematic, prototype to final product with each student.
 
+![Shaping Instruction 1](assets/CR_Surfboard-Shaping-Class_WI24-17.jpg)
+![Shaping Instruction 2](assets/CR_Surfboard-Shaping-Class_WI24-3.jpg)
