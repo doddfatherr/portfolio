@@ -27,7 +27,10 @@ Designed and carried out data collection procedure on 10 participants to determi
 ### ME 507 - Advanced Control System Design Final Project | _April 2024 - June 2024_
 In a team of 2, developed a machine vision approach to a pick-and-place system. Using an Ender v3 3-D printer frame, desigend PCB to read input from _OpenMV_ breakout board, locate a target object, and move payload above target. Took team lead for developing object-oriented micropython and C/C++ code to locate target location on _OpenMV_ board, read sensor input from limit switches, and actuate motors. Final PCB did not successfully work, however developed working system using breadboard, STM32F411 MCU.
 
-![ME_507](assets/DSC02621.JPG)
+<div style="text-align: center;">
+  <img src="assets/DSC02621.JPG" alt="Project Display" style="width:45%; display: inline-block; margin-right: 5%;">
+  <img src="assets/OPENMV_image.png" alt="OPENMV" style="width:45%; display: inline-block;">
+</div>
 
 
 ### Cal Poly Senior Project, Maxar Technologies | _September 2022 - June 2023_ , Palo Alto CA
@@ -80,5 +83,5 @@ Facilitated a 6-week project-based course to handshape a surfboard from a polyur
 
 <div style="text-align: center;">
   <img src="assets/CR_Surfboard-Shaping-Class_WI24-17.jpg" alt="Shaping Instruction 1" style="width:45%; display: inline-block; margin-right: 5%;">
-  <img src="assets/CR_Surfboard-Shaping-Class_WI24-3.jpg" alt="Shaping Instruction 2" style="width:45%; display: inline-block;">
+  <img src="assets/CR_Surfboard-Shaping-Class_WI24-19.jpg" alt="Shaping Instruction 2" style="width:45%; display: inline-block;">
 </div>
