@@ -53,8 +53,7 @@ Participated in team of four to design, assemble, and test a proof-of-concept sp
 Utilized 3-D printing techniquesm including PLA and SLA, to rapidly design, assemble, and test prototype for fluid line management system of complex robotics architecture. Designed electrical enclosure to facilitate management of power supplies and wiring. Excelled in early-stage startup environment with a goal of developing a robotics system.
 
 <div style="text-align: center;">
-  <img src="assets/Telos_robot.jpeg" alt="Telos" style="width:45%; display: inline-block; margin-right: 5%;">
-  <video src="assets/IMG_5172.mov" alt="System" style="width:45%; display: inline-block;">
+  <img src="assets/Telos_robot.jpeg" alt="Telos" style="width:90%>
 </div>
 
 
@@ -82,6 +81,6 @@ Volunteered in fraternity national philantropy event where I cycled 3,663 miles 
 Facilitated a 6-week project-based course to handshape a surfboard from a polyurethane foam "blank." Instructed multiple classes of 6 students per quarter, ensuring each student's final product matches their specifications. Designed original surfboards from concept to schematic, prototype to final product with each student.
 
 <div style="text-align: center;">
-  <img src="assets/CR_Surfboard-Shaping-Class_WI24-17.jpg" alt="Shaping Instruction 1" style="width:45%; display: inline-block; margin-right: 5%;">
+  <img src="assets/CR_Surfboard-Shaping-Class_WI24-3.jpg" alt="Shaping Instruction 1" style="width:45%; display: inline-block; margin-right: 5%;">
   <img src="assets/CR_Surfboard-Shaping-Class_WI24-19.jpg" alt="Shaping Instruction 2" style="width:45%; display: inline-block;">
 </div>
