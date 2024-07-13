@@ -6,7 +6,9 @@
 - M.S, Mechanical Engineering | California Polytechnic State University, San Luis Obispo _June 2024_
 - B.S, Mechanical Engineering | California Polytechnic State University, San Luis Obispo _June 2023_
 
-Relevant Coursework: CS 587 - Advanced Deep Learning | CPE 428 - Computer Vision | STAT 419 - Multivariate Statistics
+**Relevant Coursework**
+
+CS 587 - Advanced Deep Learning | CPE 428 - Computer Vision | STAT 419 - Multivariate Statistics
 
 ## Projects
 ### Novel Deep Learning Architecture to Monitor Upper Extremity Behavior
@@ -28,8 +30,8 @@ Designed and carried out data collection procedure on 10 participants to determi
 In a team of 2, developed a machine vision approach to a pick-and-place system. Using an Ender v3 3-D printer frame, desigend PCB to read input from _OpenMV_ breakout board, locate a target object, and move payload above target. Took team lead for developing object-oriented micropython and C/C++ code to locate target location on _OpenMV_ board, read sensor input from limit switches, and actuate motors. Final PCB did not successfully work, however developed working system using breadboard, STM32F411 MCU.
 
 <div style="text-align: center;">
-  <img src="assets/DSC02621.JPG" alt="Project Display" style="width:45%; display: inline-block; margin-right: 5%;">
-  <img src="assets/OPENMV_image.png" alt="OPENMV" style="width:45%; display: inline-block;">
+  <img src="assets/DSC02621.JPG" alt="Project Display" style="width:50%; display: inline-block;">
+  <img src="assets/OPENMV_image.png" alt="OPENMV" style="width:50%; display: inline-block;">
 </div>
 
 
