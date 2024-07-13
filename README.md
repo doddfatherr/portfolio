@@ -33,10 +33,9 @@ Developed song classification deep learning architecture based on 10 different a
 In a team of 2, developed a machine vision approach to a pick-and-place system. Using an Ender v3 3-D printer frame, desigend PCB to read input from _OpenMV_ breakout board, locate a target object, and move payload above target. Took team lead for developing object-oriented micropython and C/C++ code to locate target location on _OpenMV_ board, read sensor input from limit switches, and actuate motors. Final PCB did not successfully work, however developed working system using breadboard, STM32F411 MCU.
 
 <div style="text-align: center;">
-  <img src="assets/DSC02621.JPG" alt="Project Display" style="width:50%; display: inline-block;">
-  <img src="assets/OPENMV_image.png" alt="OPENMV" style="width:50%; display: inline-block;">
+  <img src="assets/DSC02621.JPG" alt="Project Display" style="width:48%; display: inline-block; margin-right: 1%;">
+  <img src="assets/OPENMV_image.png" alt="OPENMV" style="width:48%; display: inline-block; margin-left: 1%;">
 </div>
-
 
 ### Cal Poly Senior Project, Maxar Technologies | _September 2022 - June 2023_ , Palo Alto CA
 Participated in team of four to design, assemble, and test a proof-of-concept spacecraft center of gravity calculator. Utilized load cell array to calculate mass, triangulate location, and move a "pick point" above calculated location. Took on team lead of motor control, utilizing Arduino MCU to read input from load cell array and actuate three stepper motor - linear actuator systems. Developed Abaqus FEA model to ensure structural system withstood loads, leading to redesign of system. Excelled in year long project to meet final deliverable goals with Maxar engineering team.
@@ -58,7 +57,7 @@ Participated in team of four to design, assemble, and test a proof-of-concept sp
 Utilized 3-D printing techniquesm including PLA and SLA, to rapidly design, assemble, and test prototype for fluid line management system of complex robotics architecture. Designed electrical enclosure to facilitate management of power supplies and wiring. Excelled in early-stage startup environment with a goal of developing a robotics system.
 
 <div style="text-align: center;">
-  <img src="assets/Telos_robot.jpeg" alt="Telos" style="width:90%>
+  <img src="assets/Telos_robot.jpeg" alt="Telos" style="width:90%">
 </div>
 
 
@@ -78,14 +77,15 @@ Instructed 3 different mechanical engineering undergraduate 3 hour lab sections,
 Volunteered in fraternity national philantropy event where I cycled 3,663 miles from Santa Barbara, CA to Washington D.C to raise money and awareness for people with disabilites. Participated in "friendship visits" with 21 disability resource organizations across the country over 59 days. Personally fundraised $7000+ over 5 months leading up to trip departure. I was named local fraternity chapter brother of the year and an event team captain for training the most miles out of 20 cyclists.
 
 <div style="text-align: center;">
-  <img src="assets/Joh_bike.JPG" alt="Joh Bike" style="width:45%; display: inline-block; margin-right: 5%;">
-  <img src="assets/Joh_friendship_visit.JPG" alt="Joh Friendship Visit" style="width:45%; display: inline-block;">
+  <img src="assets/Joh_bike.JPG" alt="Joh Bike" style="width:48%; display: inline-block; margin-right: 1%;">
+  <img src="assets/Joh_friendship_visit.JPG" alt="Joh Friendship Visit" style="width:48%; display: inline-block; margin-left: 1%;">
 </div>
+
 
 ### Surfboard Shaping Instructor | California Polytechnic State University, San Luis Obispo _September 2021 - June 2024_
 Facilitated a 6-week project-based course to handshape a surfboard from a polyurethane foam "blank." Instructed multiple classes of 6 students per quarter, ensuring each student's final product matches their specifications. Designed original surfboards from concept to schematic, prototype to final product with each student.
 
 <div style="text-align: center;">
-  <img src="assets/CR_Surfboard-Shaping-Class_WI24-3.jpg" alt="Shaping Instruction 1" style="width:45%; display: inline-block; margin-right: 5%;">
-  <img src="assets/CR_Surfboard-Shaping-Class_WI24-19.jpg" alt="Shaping Instruction 2" style="width:45%; display: inline-block;">
+  <img src="assets/CR_Surfboard-Shaping-Class_WI24-3.jpg" alt="Shaping Instruction 1" style="width:48%; display: inline-block; margin-right: 1%;">
+  <img src="assets/CR_Surfboard-Shaping-Class_WI24-19.jpg" alt="Shaping Instruction 2" style="width:48%; display: inline-block; margin-left: 1%;">
 </div>
