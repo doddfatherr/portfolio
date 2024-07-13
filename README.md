@@ -7,32 +7,6 @@
 - B.S, Mechanical Engineering | California Polytechnic State University, San Luis Obispo _June 2023_
 
 Relevant Coursework: CS 587 - Advanced Deep Learning | CPE 428 - Computer Vision | STAT 419 - Multivariate Statistics
-## Work Experience
-**Graduate Research Assistant, NSF Grant | _December 2022 - Present_** ([Research Lab Webpage](https://ericwadelab.github.io/))
-- Developed algorithms to analyze electromyography (EMG) and acceleration data from wearable armband, with the end application to classify upper extremity movement of  individuals post-stroke
-- Designed and implemented research procedures on human subjects; organized data collection procedure to align with Internal Review Board (IRB) standards
-- Applied machine learning techniques of principal component analysis (PCA), data augmentation, developed deep neural network architecture
-- Worked with thesis advisor to publish IEEE conference paper, IEEE journal paper, and thesis within 1.5 year timeframe
-
-<div style="text-align: center;">
-  <img src="assets/image.png" alt="ArmbandEMG" style="width:45%">
-</div>
-
-**Mechanical Engineering Intern, Telos Health | _July 2023 - September 2023_, San Jose CA**
-Utilized 3-D printing techniquesm including PLA and SLA, to rapidly design, assemble, and test prototype for fluid line management system of complex robotics architecture. Designed electrical enclosure to facilitate management of power supplies and wiring. Excelled in early-stage startup environment with a goal of developing a robotics system.
-
-<div style="text-align: center;">
-  <img src="assets/Telos_robot.jpeg" alt="Telos" style="width:45%; display: inline-block; margin-right: 5%;">
-  <img src="assets/IMG_5172.mov" alt="System" style="width:45%; display: inline-block;">
-</div>
-
-
-
-**Mechanical Engineering Intern, Pacific Design Technologies(PDT) | _June 2022 - August 2022_, Santa Barbara CA**
-Designed and optimized MATLAB algorithm to analyze fluidics mixing valve data for PDT / NASA JPL engineering team. Utilized _signal processing toolbox_ to take derivative of data, run _findpeaks()_ function, and automatically detect testing locations in data, saving engineering team hours of manual segmentation. 
-
-![PDT_Data](assets/PDT_Data.png)
-
 
 ## Projects
 ### Novel Deep Learning Architecture to Monitor Upper Extremity Behavior
@@ -61,9 +35,36 @@ Participated in team of four to design, assemble, and test a proof-of-concept sp
 
 ![Senior_proj](assets/FEA_Senior_Project.png)
 
+## Work Experience
+**Graduate Research Assistant, NSF Grant | _December 2022 - Present_** ([Research Lab Webpage](https://ericwadelab.github.io/))
+- Developed algorithms to analyze electromyography (EMG) and acceleration data from wearable armband, with the end application to classify upper extremity movement of  individuals post-stroke
+- Designed and implemented research procedures on human subjects; organized data collection procedure to align with Internal Review Board (IRB) standards
+- Applied machine learning techniques of principal component analysis (PCA), data augmentation, developed deep neural network architecture
+- Worked with thesis advisor to publish IEEE conference paper, IEEE journal paper, and thesis within 1.5 year timeframe
+
+<div style="text-align: center;">
+  <img src="assets/image.png" alt="ArmbandEMG" style="width:90%">
+</div>
+
+**Mechanical Engineering Intern, Telos Health | _July 2023 - September 2023_, San Jose CA**
+Utilized 3-D printing techniquesm including PLA and SLA, to rapidly design, assemble, and test prototype for fluid line management system of complex robotics architecture. Designed electrical enclosure to facilitate management of power supplies and wiring. Excelled in early-stage startup environment with a goal of developing a robotics system.
+
+<div style="text-align: center;">
+  <img src="assets/Telos_robot.jpeg" alt="Telos" style="width:45%; display: inline-block; margin-right: 5%;">
+  <video src="assets/IMG_5172.mov" alt="System" style="width:45%; display: inline-block;">
+</div>
+
+
+**Mechanical Engineering Intern, Pacific Design Technologies(PDT) | _June 2022 - August 2022_, Santa Barbara CA**
+Designed and optimized MATLAB algorithm to analyze fluidics mixing valve data for PDT / NASA JPL engineering team. Utilized _signal processing toolbox_ to take derivative of data, run _findpeaks()_ function, and automatically detect testing locations in data, saving engineering team hours of manual segmentation. 
+
+![PDT_Data](assets/PDT_Data.png)
+
+
 ## Leadership and Activities
 ### Teaching Associate | California Polytechnic State University, San Luis Obispo _September 2023 - June 2024_
 Classes Taught: ME 251 - Intro to Detailed Design, ME 129/130 - Introduction to Mechanical Engineering II/III
+
 Instructed 3 different mechanical engineering undergraduate 3 hour lab sections, each of 28+ students and 2 grading assistants. Taught SolidWorks principles to freshmen/sophomore throughout 10 week course, conveying topics such as engineering detailed drawings, hand drafting techniques, and GD&T fundamentals.  
 
 ### Journey of Hope Cyclist | The Ability Experience _June 2021 - August 2021_
