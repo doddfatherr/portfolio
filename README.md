@@ -15,7 +15,7 @@ Relevant Coursework: CS 587 - Advanced Deep Learning | CPE 428 - Computer Vision
 - Worked with thesis advisor to publish IEEE conference paper, IEEE journal paper, and thesis within 1.5 year timeframe
 
 <div style="text-align: center;">
-  <img src="assets/assets/image.png" alt="ArmbandEMG" style="width:45%">
+  <img src="assets/image.png" alt="ArmbandEMG" style="width:45%">
 </div>
 
 **Mechanical Engineering Intern, Telos Health | _July 2023 - September 2023_, San Jose CA**
