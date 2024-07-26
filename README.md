@@ -26,9 +26,6 @@ Designed and carried out data collection procedure on 10 participants to determi
 ![Conference_Poster](assets/poster_image.png)
 ![Computer_Vision_Snapshot](/assets/CVSnapshot.png)
 
-### CSC 587 - Advanced Deep Learning Final Project | _January 2024 - March 2024_
-Developed song classification deep learning architecture based on 10 different audio genres
-
 ### ME 507 - Advanced Control System Design Final Project | _April 2024 - June 2024_
 In a team of 2, developed a machine vision approach to a pick-and-place system. Using an Ender v3 3-D printer frame, desigend PCB to read input from _OpenMV_ breakout board, locate a target object, and move payload above target. Took team lead for developing object-oriented micropython and C/C++ code to locate target location on _OpenMV_ board, read sensor input from limit switches, and actuate motors. Final PCB did not successfully work, however developed working system using breadboard, STM32F411 MCU.
 
