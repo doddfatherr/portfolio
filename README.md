@@ -1,4 +1,4 @@
-# Deep Learning Engineer
+# MS Graduate in Deep Learning and Healthcare
 
 #### Technical Skills: Python (Tensorflow/Keras, Pytorch, Numpy, Pandas), MATLAB, RStudio 
 
